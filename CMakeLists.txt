@@ -1,0 +1,8 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.5)
+
+PROJECT(youtube CXX)
+
+ADD_EXECUTABLE(str2txt str2txt.cpp)
+
+
+
